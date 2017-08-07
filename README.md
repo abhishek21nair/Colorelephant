@@ -1,2 +1,0 @@
-# Colorelephant
-Colorelephant task
